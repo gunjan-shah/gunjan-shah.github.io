@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Daily Grind</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Daily Grind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Sep 2020 16:56:36 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life</title>
+      <link>/tags/life/</link>
+      <pubDate>Fri, 11 Sep 2020 16:56:36 +0530</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material possession</title>
+      <link>/tags/material-possession/</link>
+      <pubDate>Fri, 11 Sep 2020 16:56:36 +0530</pubDate>
+      
+      <guid>/tags/material-possession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimalist</title>
+      <link>/tags/minimalist/</link>
+      <pubDate>Fri, 11 Sep 2020 16:56:36 +0530</pubDate>
+      
+      <guid>/tags/minimalist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>/tags/philosophy/</link>
+      <pubDate>Fri, 11 Sep 2020 16:56:36 +0530</pubDate>
+      
+      <guid>/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clarity</title>
+      <link>/tags/clarity/</link>
+      <pubDate>Thu, 10 Sep 2020 15:57:59 +0530</pubDate>
+      
+      <guid>/tags/clarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind</title>
+      <link>/tags/mind/</link>
+      <pubDate>Thu, 10 Sep 2020 15:57:59 +0530</pubDate>
+      
+      <guid>/tags/mind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
